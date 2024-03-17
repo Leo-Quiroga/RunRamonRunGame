@@ -1,2 +1,2 @@
-# RunRamonRunGame
-Juego 3D running, con colectables, partículas y música
+# RunRamonRun
+Prototipo de videojuego 3D runner, con tiempo, collectables, audio y partículas.
